@@ -27,6 +27,7 @@ react通过proxy转发post请求给express
 express路由得到post请求后向数据库插入数据.
 
 demo结构:
+
 前端是基于create-react-app,
 后端基于express,
 数据库是mysql,
