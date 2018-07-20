@@ -22,7 +22,7 @@ demo功能:
 
 react渲染一个按钮, 按下后会发送post请求(向mysql数据库插入一条数据)
 
-react通过proxy转发post请求给express
+react通过fetch API发送post请求给express
 
 express路由得到post请求后向数据库插入数据.
 
