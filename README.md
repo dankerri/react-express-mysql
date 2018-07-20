@@ -30,11 +30,3 @@ demo结构:
 前端是基于create-react-app,
 后端基于express,
 数据库是mysql,
-
-## react
-向CRA的package文件添加"proxy"指向epxress.
-
-## express
-使用了express的中间件body-parser, 用于解析post请求
-
-使用了cors中间件应对同源策略
